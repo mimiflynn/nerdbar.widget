@@ -6,8 +6,8 @@ render: (output) ->
 style: """
   top: 0
   left: 0
-  height: 20px
+  height: 30px
   width: 100%
-  background-color: #171717
+  background: rgba(#171717, 0.75)
   z-index: -1
 """
